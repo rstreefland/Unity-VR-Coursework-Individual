@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 643993195061e0247a02911de829790c
+timeCreated: 1485427789
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box186
+    100002: Box187
+    100004: Box188
+    100006: Box189
+    100008: Box190
+    100010: Box191
+    100012: Box192
+    100014: Box193
+    100016: Box194
+    100018: Box195
+    100020: Box196
+    100022: Box197
+    100024: Box198
+    100026: Box207
+    100028: Box208
+    100030: Box209
+    100032: Box210
+    100034: Group017
+    100036: //RootNode
+    400000: Box186
+    400002: Box187
+    400004: Box188
+    400006: Box189
+    400008: Box190
+    400010: Box191
+    400012: Box192
+    400014: Box193
+    400016: Box194
+    400018: Box195
+    400020: Box196
+    400022: Box197
+    400024: Box198
+    400026: Box207
+    400028: Box208
+    400030: Box209
+    400032: Box210
+    400034: Group017
+    400036: //RootNode
+    2300000: Box186
+    2300002: Box187
+    2300004: Box188
+    2300006: Box189
+    2300008: Box190
+    2300010: Box191
+    2300012: Box192
+    2300014: Box193
+    2300016: Box194
+    2300018: Box195
+    2300020: Box196
+    2300022: Box197
+    2300024: Box198
+    2300026: Box207
+    2300028: Box208
+    2300030: Box209
+    2300032: Box210
+    3300000: Box186
+    3300002: Box187
+    3300004: Box188
+    3300006: Box189
+    3300008: Box190
+    3300010: Box191
+    3300012: Box192
+    3300014: Box193
+    3300016: Box194
+    3300018: Box195
+    3300020: Box196
+    3300022: Box197
+    3300024: Box198
+    3300026: Box207
+    3300028: Box208
+    3300030: Box209
+    3300032: Box210
+    4300000: Box207
+    4300002: Box209
+    4300004: Box208
+    4300006: Box196
+    4300008: Box210
+    4300010: Box191
+    4300012: Box192
+    4300014: Box193
+    4300016: Box190
+    4300018: Box195
+    4300020: Box194
+    4300022: Box197
+    4300024: Box198
+    4300026: Box188
+    4300028: Box187
+    4300030: Box186
+    4300032: Box189
+    6400000: Box186
+    6400002: Box187
+    6400004: Box188
+    6400006: Box189
+    6400008: Box190
+    6400010: Box191
+    6400012: Box192
+    6400014: Box193
+    6400016: Box194
+    6400018: Box195
+    6400020: Box196
+    6400022: Box197
+    6400024: Box198
+    6400026: Box207
+    6400028: Box208
+    6400030: Box209
+    6400032: Box210
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.005
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
